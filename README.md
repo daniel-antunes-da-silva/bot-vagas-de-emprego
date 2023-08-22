@@ -9,6 +9,7 @@ Solicitação de cookies que é exibida logo ao entrar no site:
 ![cookies](https://github.com/daniel-antunes-da-silva/bot-vagas-de-emprego/assets/132831685/d8c63aca-b173-4a50-941d-5c757504e045)
 
 Pop-up que é exibido na segunda página:
+
 ![popup](https://github.com/daniel-antunes-da-silva/bot-vagas-de-emprego/assets/132831685/cd988a96-5863-4814-aeaa-973b8309f463)
 
 Enquanto as páginas são acessadas, os titulos de cada vaga e o link de cada uma são armazenados em um arquivo de texto, que pode ser convertido em PDF para tornar os links clicáveis.
